@@ -21,9 +21,9 @@ pi information - http://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rp
 * setting up the Pi - http://www.raspberrypi.org/help/noobs-setup/
 * Wiring up the hardware - http://www.modmypi.com/blog/raspberry-pi-gpio-sensing-motion-detection
 * setting up PubNub through the console
-** sudo apt-get install python-dev
-** sudo apt-get install pip
-** sudo pip install pubnub
+  sudo apt-get install python-dev
+  sudo apt-get install pip
+  sudo pip install pubnub
 Loading the code for the Pi and sensor
 http://www.modmypi.com/blog/raspberry-pi-gpio-sensing-motion-detection
 Including the PubNub Magic
