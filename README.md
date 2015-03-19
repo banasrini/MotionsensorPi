@@ -24,14 +24,13 @@ pi information - http://www.raspberrypi-spy.co.uk/2012/06/simple-guide-to-the-rp
   * sudo apt-get install python-dev
   * sudo apt-get install pip
   * sudo pip install pubnub
-Loading the code for the Pi and sensor
-http://www.modmypi.com/blog/raspberry-pi-gpio-sensing-motion-detection
-Including the PubNub Magic
-including the gist for the final code
-sending messages to the dashboard
-setup the dashboard
-troubleshooting
-Installing pubnub -
-wifi connection - 
-hardware problems - 
-code issues -
+* Loading the code for the Pi and sensor - http://www.modmypi.com/blog/raspberry-pi-gpio-sensing-motion-detection
+* Including the PubNub Magic
+* including the gist for the final code
+* sending messages to the dashboard
+  *setup the dashboard
+* troubleshooting
+* Installing pubnub -
+* wifi connection - 
+* hardware problems - 
+* code issues -
